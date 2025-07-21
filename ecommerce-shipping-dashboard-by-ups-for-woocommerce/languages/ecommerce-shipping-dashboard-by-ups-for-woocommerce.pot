@@ -1,0 +1,115 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: eCommerce Shipping Dashboard by UPS for WooCommerce\n"
+"POT-Creation-Date: 2024-11-04 18:21+0530\n"
+"PO-Revision-Date: 2024-11-04 18:20+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ecommerce-shipping-dashboard-by-ups-for-woocommerce.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-ups-admin.php:171 admin/class-ups-admin.php:172
+#: admin/class-ups-admin.php:182
+msgid "UPS"
+msgstr ""
+
+#: admin/class-ups-admin.php:183
+msgid "Start Here"
+msgstr ""
+
+#. translators: %1$s: is the API name, %2$s: is the permission type (e.g., 'read_write'), %3$s: is the creation date, and %4$s: is the creation time
+#: admin/class-ups-admin.php:324
+#, php-format
+msgid "%1$s - API %2$s (created on %3$s at %4$s)."
+msgstr ""
+
+#: admin/class-ups-admin.php:367
+msgid "Please re-load page there is some error to configure plugin"
+msgstr ""
+
+#: admin/class-ups-admin.php:397
+msgid "The terms and conditions file does not exist."
+msgstr ""
+
+#: admin/partials/ups-admin-starting-here-page.php:19
+msgid "Let's get you started with the UPS® Shipping Dashboard"
+msgstr ""
+
+#. Description of the plugin/theme
+#: admin/partials/ups-admin-starting-here-page.php:22
+msgid "UPS eCommerce Shipping Dashboard WooCommerce integration extension"
+msgstr ""
+
+#: admin/partials/ups-admin-starting-here-page.php:40
+#: admin/partials/ups-admin-starting-here-page.php:55
+msgid "1. Activate the Plugin"
+msgstr ""
+
+#: admin/partials/ups-admin-starting-here-page.php:41
+msgid "Connected Successfully"
+msgstr ""
+
+#: admin/partials/ups-admin-starting-here-page.php:60
+msgid "Toggle panel: Activate the Plugin"
+msgstr ""
+
+#: admin/partials/ups-admin-starting-here-page.php:85
+msgid "Store Domain:"
+msgstr ""
+
+#: admin/partials/ups-admin-starting-here-page.php:95
+msgid "Please enter your store's domain name"
+msgstr ""
+
+#: admin/partials/ups-admin-starting-here-page.php:101
+msgid "Business Email:"
+msgstr ""
+
+#: admin/partials/ups-admin-starting-here-page.php:106
+msgid "Please enter your business email address"
+msgstr ""
+
+#: admin/partials/ups-admin-starting-here-page.php:140
+msgid "Please accept all terms and conditions"
+msgstr ""
+
+#: admin/partials/ups-admin-starting-here-page.php:144
+msgid "Accept"
+msgstr ""
+
+#: admin/partials/ups-admin-starting-here-page.php:151
+msgid "UPS logo"
+msgstr ""
+
+#: includes/class-ups-wc-integration.php:23
+msgid "UPS Shipping Dashboard Integration"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "eCommerce Shipping Dashboard by UPS for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://ups.dashboardlink.com"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "UPS eCommerce Shipping Dashboard"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.ups.com"
+msgstr ""

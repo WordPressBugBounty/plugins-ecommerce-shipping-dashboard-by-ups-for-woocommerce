@@ -1,0 +1,67 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.ups-container-custom .postbox .hndle {
+    cursor: unset;
+}
+
+.ups-container-custom h2.right {
+    font-size: 14px;
+    padding: 8px 12px;
+    margin: 0;
+    line-height: 1.4;
+    color: #008000;
+}
+
+.ups-container-custom span.dashicons.dashicons-saved {
+    color: #008000;
+}
+
+.ups-container-custom .custom-inside {
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+}
+
+.ups-container-custom .custom-inside .main {
+    width: 100%;
+}
+
+.widefat tfoot tr th#ups-globl-checkout-classification,
+.widefat thead tr th#ups-globl-checkout-classification {
+    width: 24%;
+}
+
+.ups-spinner {
+    display: none;
+}
+
+.ups-overlay.is-active {
+    position: fixed;
+    display: block;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, .1);
+    z-index: 1;
+    cursor: none;
+}
+
+.ups-spinner.is-active {
+    display: block;
+    position: fixed;
+    top: 48%;
+    left: 48%;
+    text-align: center;
+    font-size: 10px;
+    z-index: 2;
+}
+
+.disablenotice .notice {
+    display: none;
+}

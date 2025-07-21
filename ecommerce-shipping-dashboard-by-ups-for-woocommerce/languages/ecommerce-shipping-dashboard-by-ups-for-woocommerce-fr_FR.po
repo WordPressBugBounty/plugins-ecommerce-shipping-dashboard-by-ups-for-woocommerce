@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: eCommerce Shipping Dashboard by UPS for WooCommerce\n"
+"POT-Creation-Date: 2024-11-04 18:26+0530\n"
+"PO-Revision-Date: 2024-11-04 18:27+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ecommerce-shipping-dashboard-by-ups-for-woocommerce.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-ups-admin.php:171 admin/class-ups-admin.php:172
+#: admin/class-ups-admin.php:182
+msgid "UPS"
+msgstr "UPS"
+
+#: admin/class-ups-admin.php:183
+msgid "Start Here"
+msgstr "Commencer ici"
+
+#. translators: %1$s: is the API name, %2$s: is the permission type (e.g., 'read_write'), %3$s: is the creation date, and %4$s: is the creation time
+#: admin/class-ups-admin.php:324
+#, php-format
+msgid "%1$s - API %2$s (created on %3$s at %4$s)."
+msgstr "%1$s - API %2$s (créé sur %3$s à %4$s)."
+
+#: admin/class-ups-admin.php:367
+msgid "Please re-load page there is some error to configure plugin"
+msgstr ""
+"Veuillez recharger la page, il y a une erreur pour configurer le plugin"
+
+#: admin/class-ups-admin.php:397
+msgid "The terms and conditions file does not exist."
+msgstr "Le fichier des termes et conditions n'existe pas."
+
+#: admin/partials/ups-admin-starting-here-page.php:19
+msgid "Let's get you started with the UPS® Shipping Dashboard"
+msgstr ""
+"Commençons par vous familiariser avec le tableau de bord d'expédition UPS®"
+
+#. Description of the plugin/theme
+#: admin/partials/ups-admin-starting-here-page.php:22
+msgid "UPS eCommerce Shipping Dashboard WooCommerce integration extension"
+msgstr ""
+"Extension d'intégration WooCommerce pour le tableau de bord d'expédition UPS "
+"eCommerce"
+
+#: admin/partials/ups-admin-starting-here-page.php:40
+#: admin/partials/ups-admin-starting-here-page.php:55
+msgid "1. Activate the Plugin"
+msgstr "1. Activez le plugin"
+
+#: admin/partials/ups-admin-starting-here-page.php:41
+msgid "Connected Successfully"
+msgstr "Connecté avec succès"
+
+#: admin/partials/ups-admin-starting-here-page.php:60
+msgid "Toggle panel: Activate the Plugin"
+msgstr "Panneau bascule : activer le plugin"
+
+#: admin/partials/ups-admin-starting-here-page.php:85
+msgid "Store Domain:"
+msgstr "Domaine du magasin :"
+
+#: admin/partials/ups-admin-starting-here-page.php:95
+msgid "Please enter your store's domain name"
+msgstr "Veuillez saisir le nom de domaine de votre boutique"
+
+#: admin/partials/ups-admin-starting-here-page.php:101
+msgid "Business Email:"
+msgstr "Courriel professionnel :"
+
+#: admin/partials/ups-admin-starting-here-page.php:106
+msgid "Please enter your business email address"
+msgstr "Veuillez saisir votre adresse e-mail professionnelle"
+
+#: admin/partials/ups-admin-starting-here-page.php:140
+msgid "Please accept all terms and conditions"
+msgstr "Veuillez accepter tous les termes et conditions"
+
+#: admin/partials/ups-admin-starting-here-page.php:144
+msgid "Accept"
+msgstr "Accepter"
+
+#: admin/partials/ups-admin-starting-here-page.php:151
+msgid "UPS logo"
+msgstr "Logo UPS"
+
+#: includes/class-ups-wc-integration.php:23
+msgid "UPS Shipping Dashboard Integration"
+msgstr "Intégration du tableau de bord d'expédition UPS"
+
+#. Plugin Name of the plugin/theme
+msgid "eCommerce Shipping Dashboard by UPS for WooCommerce"
+msgstr ""
+"Tableau de bord d'expédition de commerce électronique par UPS pour "
+"WooCommerce"
+
+#. Plugin URI of the plugin/theme
+msgid "https://ups.dashboardlink.com"
+msgstr "https://ups.dashboardlink.com"
+
+#. Author of the plugin/theme
+msgid "UPS eCommerce Shipping Dashboard"
+msgstr "Tableau de bord des expéditions UPS eCommerce"
+
+#. Author URI of the plugin/theme
+msgid "https://www.ups.com"
+msgstr "https://www.ups.com"
