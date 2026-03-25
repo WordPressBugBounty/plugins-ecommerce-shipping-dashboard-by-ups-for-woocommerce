@@ -80,12 +80,12 @@ class UPSESD
         $this->set_locale();
         $this->define_admin_hooks();
         $this->define_public_hooks();
-        if ( is_multisite() ) {
-			add_action( 'plugins_loaded', array( $this, 'add_wc_integrations_ups_for_nw' ) );
-		}else{
-			add_action( 'plugins_loaded', array( $this, 'add_wc_integrations_ups' ) );
-		}
-		add_filter( 'woocommerce_integrations', array( $this, 'add_ups_wc_integration_method' ) );
+        if (is_multisite()) {
+            add_action('plugins_loaded', array($this, 'add_wc_integrations_ups_for_nw'));
+        } else {
+            add_action('plugins_loaded', array($this, 'add_wc_integrations_ups'));
+        }
+        add_filter('woocommerce_integrations', array($this, 'add_ups_wc_integration_method'));
     }
 
     /**
