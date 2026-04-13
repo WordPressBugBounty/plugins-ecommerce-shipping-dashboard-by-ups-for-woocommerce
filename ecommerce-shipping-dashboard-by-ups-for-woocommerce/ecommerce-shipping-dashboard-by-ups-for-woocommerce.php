@@ -44,8 +44,8 @@ define('UPS_PLUGIN_BASENAME', plugin_basename(__FILE__));
 /**
  * Define itembase varaibles
  */
-define('UPS_ITEMBASE_INSTANCE_ID', '69ed359f-8c56-4a5d-8b77-6f7d083ff20b');
-define('UPS_ITEMBASE_WEB_HOOK_URL_DOMAIN', 'st01.api.itembase.com');
+define( 'UPS_ITEMBASE_INSTANCE_ID', 'd9539ace-b659-43fc-bc1e-041d5ce95fe6' );
+define( 'UPS_ITEMBASE_WEB_HOOK_URL_DOMAIN', 'api.itembase.com' );
 define('UPS_ITEMBASE_WEB_HOOK_URL', 'https://' . UPS_ITEMBASE_WEB_HOOK_URL_DOMAIN);
 define(
     'UPS_ITEMBASE_SIGN_UP_URL',
