@@ -372,7 +372,7 @@ class UPSESD_Admin
 
         if (empty($api_credentials['last_access'])) {
             $module         = 'ups_module';
-            $module_version = '1.0.6';
+            $module_version = '1.0.11';
             $signup_url     = $this->item_base_signup_url;
             $site_url       = get_option('siteurl');
 
@@ -548,8 +548,8 @@ class UPSESD_Admin
         if (is_admin() && false === $existing_option_value) {
             $stored_version  = '1.0.2';
             $current_version = UPS_VERSION;
-            if ($stored_version && $stored_version !== $current_version && '1.0.6' === $current_version) {
-                update_option($option_name, '1.0.6');
+            if ($stored_version && $stored_version !== $current_version && '1.0.11' === $current_version) {
+                update_option($option_name, '1.0.11');
 
                 $api_credentials = $this->get_existing_api_credentials();
 

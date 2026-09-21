@@ -5,15 +5,15 @@
  * Plugin URI:        https://ups.dashboardlink.com
  * Description:       UPS eCommerce Shipping Dashboard WooCommerce integration extension
  * Tags:              woocommerce, UPS, fulfillment, paperless invoice, bulk label
- * Version:           1.0.7
+ * Version:           1.0.11
  * Author:            UPS eCommerce Shipping Dashboard
  * Author URI:        https://www.ups.com
  * Domain Path:       /languages
  * Requires at least: 4.7
- * Tested up to:      6.9.4
+ * Tested up to:      7.0
  * Requires PHP:      7.4
  * WC requires at least: 3.0
- * WC tested up to: 10.6.1
+ * WC tested up to: 10.9.4
  * Text Domain:       ecommerce-shipping-dashboard-by-ups-for-woocommerce
  * License: GPLv2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -33,7 +33,7 @@ if (! defined('WPINC')) {
  * Start at version 1.0.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define('UPS_VERSION', '1.0.7');
+define('UPS_VERSION', '1.0.11');
 
 /*
 * Define global vraibles
@@ -44,8 +44,8 @@ define('UPS_PLUGIN_BASENAME', plugin_basename(__FILE__));
 /**
  * Define itembase varaibles
  */
-define( 'UPS_ITEMBASE_INSTANCE_ID', 'd9539ace-b659-43fc-bc1e-041d5ce95fe6' );
-define( 'UPS_ITEMBASE_WEB_HOOK_URL_DOMAIN', 'api.itembase.com' );
+define('UPS_ITEMBASE_INSTANCE_ID', 'd9539ace-b659-43fc-bc1e-041d5ce95fe6');
+define('UPS_ITEMBASE_WEB_HOOK_URL_DOMAIN', 'api.itembase.com');
 define('UPS_ITEMBASE_WEB_HOOK_URL', 'https://' . UPS_ITEMBASE_WEB_HOOK_URL_DOMAIN);
 define(
     'UPS_ITEMBASE_SIGN_UP_URL',

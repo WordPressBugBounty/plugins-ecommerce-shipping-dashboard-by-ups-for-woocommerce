@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: eCommerce Shipping Dashboard by UPS for WooCommerce\n"
+"POT-Creation-Date: 2024-01-30 17:14+0530\n"
+"PO-Revision-Date: 2024-01-30 17:16+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ups.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Author of the plugin/theme
+#: admin/class-ups-admin.php:150
+#: admin/class-ups-admin.php:151
+#: admin/class-ups-admin.php:161
+#: admin/partials/ups-admin-addons-page.php:38
+#: admin/partials/ups-admin-addons-page.php:62
+msgid "UPS"
+msgstr "UPS"
+
+#: admin/class-ups-admin.php:162
+msgid "Start Here"
+msgstr "Commencer ici"
+
+#: admin/class-ups-admin.php:171
+#: admin/class-ups-admin.php:172
+#: admin/partials/ups-admin-about-page.php:17
+msgid "About"
+msgstr "À propos"
+
+#: admin/class-ups-admin.php:181
+#: admin/class-ups-admin.php:182
+msgid "FAQ"
+msgstr "FAQ"
+
+#: admin/class-ups-admin.php:191
+#: admin/class-ups-admin.php:192
+#: admin/partials/ups-admin-addons-page.php:17
+msgid "Add-ons"
+msgstr "Modules complémentaires"
+
+#: admin/class-ups-admin.php:297
+#, php-format
+msgid "%1$s - API %2$s (created on %3$s at %4$s)."
+msgstr "%1$s - API %2$s (créé sur %3$s à %4$s)."
+
+#: admin/class-ups-admin.php:325
+msgid "Please re-load page there is some error to configure plugin"
+msgstr ""
+"Veuillez recharger la page, il y a une erreur pour configurer le plugin"
+
+#: admin/class-ups-admin.php:352
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: admin/partials/ups-admin-addons-page.php:24
+msgid "Add-On1 - Tax & Duties Rates"
+msgstr "Add-On1 – Taux de taxes et de droits"
+
+#: admin/partials/ups-admin-addons-page.php:31
+#: admin/partials/ups-admin-addons-page.php:55
+msgid "Install Now"
+msgstr "Installer maintenant"
+
+#: admin/partials/ups-admin-addons-page.php:36
+#: admin/partials/ups-admin-addons-page.php:60
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod "
+"bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra "
+"justo commodo."
+msgstr ""
+"Le client est très important, le client sera suivi par le client. Énéen "
+"euismod bibendum laoreet Pour les femmes enceintes, c'est très amusant, et "
+"c'est juste un bon dessin animé."
+
+#: admin/partials/ups-admin-addons-page.php:38
+#: admin/partials/ups-admin-addons-page.php:62
+msgid "By"
+msgstr "Par"
+
+#: admin/partials/ups-admin-addons-page.php:48
+msgid "Add-On2 - Dynamic Pricing"
+msgstr "Add-On2 - Tarification dynamique"
+
+#: admin/partials/ups-admin-starting-here-page.php:16
+msgid "Let's get you start with UPS® Shipping Dashboard"
+msgstr "Commençons par le tableau de bord des expéditions UPS®"
+
+#. Description of the plugin/theme
+#: admin/partials/ups-admin-starting-here-page.php:17
+msgid "UPS eCommerce Shipping Dashboard WooCommerce integration extension"
+msgstr "Tableau de bord d'expédition UPS® pour WooCommerce"
+
+#: admin/partials/ups-admin-starting-here-page.php:31
+#: admin/partials/ups-admin-starting-here-page.php:45
+msgid "1. Activate the Plugin"
+msgstr "1. Activez le plugin"
+
+#: admin/partials/ups-admin-starting-here-page.php:32
+msgid "Connected Successfully"
+msgstr "Connecté avec succès"
+
+#: admin/partials/ups-admin-starting-here-page.php:48
+msgid "Toggle panel: Activate the Plugin"
+msgstr "Panneau bascule : activer le plugin"
+
+#: admin/partials/ups-admin-starting-here-page.php:65
+msgid "Store Domain:"
+msgstr "Domaine du magasin :"
+
+#: admin/partials/ups-admin-starting-here-page.php:71
+msgid "Please enter your store's domain name"
+msgstr "Veuillez saisir le nom de domaine de votre boutique"
+
+#: admin/partials/ups-admin-starting-here-page.php:75
+msgid "Business Email:"
+msgstr "Courriel professionnel :"
+
+#: admin/partials/ups-admin-starting-here-page.php:77
+msgid "Please enter your business email address"
+msgstr "Veuillez saisir votre email professionnel"
+
+#: admin/partials/ups-admin-starting-here-page.php:86
+msgid "Please accept all terms and conditions"
+msgstr "Veuillez accepter tous les termes et conditions"
+
+#: admin/partials/ups-admin-starting-here-page.php:89
+msgid "Eligible Criteria to get GLC Rates, otherwise no Guarantee"
+msgstr ""
+"Critères d'éligibilité pour obtenir les tarifs GLC, sinon aucune garantie"
+
+#: admin/partials/ups-admin-starting-here-page.php:91
+msgid "Accept"
+msgstr "Accepter"
+
+#: admin/partials/ups-admin-starting-here-page.php:95
+#: admin/partials/ups-admin-starting-here-page.php:126
+#: admin/partials/ups-admin-starting-here-page.php:153
+msgid "UPS logo"
+msgstr "Logo UPS"
+
+#: admin/partials/ups-admin-starting-here-page.php:106
+msgid "3. Connect your UPS Contract"
+msgstr "3. Connectez votre contrat UPS"
+
+#: admin/partials/ups-admin-starting-here-page.php:109
+msgid "Toggle panel: Connect your UPS Contract"
+msgstr "Panneau bascule : Connectez votre contrat UPS"
+
+#: admin/partials/ups-admin-starting-here-page.php:118
+#: admin/partials/ups-admin-starting-here-page.php:120
+#: admin/partials/ups-admin-starting-here-page.php:145
+#: admin/partials/ups-admin-starting-here-page.php:147
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod "
+"bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra "
+"justo commodo. Proin sodales pulvinar sic tempor. Sociis natoque penatibus "
+"et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, "
+"nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus "
+"pronin sapien nunc accuan eget."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Euismod bibendum "
+"laoreet énéen. Proin gravida dolor sit amet lacus accumsan et viverra justo "
+"commodo. Proin sodales pulvinar sic tempo. Société de l'OTAN penatibus et "
+"magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla "
+"luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus pronin "
+"sapien nunc accuan eget."
+
+#: admin/partials/ups-admin-starting-here-page.php:122
+#: admin/partials/ups-admin-starting-here-page.php:149
+msgid "Connect Now"
+msgstr "Se connecter maintenant"
+
+#: admin/partials/ups-admin-starting-here-page.php:133
+msgid "4. Connect your Worldwide Economy Account"
+msgstr "4. Connectez votre compte Worldwide Economy"
+
+#: admin/partials/ups-admin-starting-here-page.php:136
+msgid "Toggle panel: Connect your Worldwide Economy Account"
+msgstr "Panneau bascule : Connectez votre compte Worldwide Economy"
+
+#: includes/class-ups-wc-integration.php:20
+msgid "UPS Shipping Dashboard Integration"
+msgstr "Intégration du tableau de bord d'expédition UPS"
+
+#. Plugin Name of the plugin/theme
+msgid "eCommerce Shipping Dashboard by UPS for WooCommerce"
+msgstr "Expédition Woocommerce UPS®"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.ups.com"
+msgstr "https://www.ups.com"

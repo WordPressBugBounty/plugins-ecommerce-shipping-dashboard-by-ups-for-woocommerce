@@ -3,11 +3,11 @@ Contributors: officialups
 Donate link: https://www.ups.com
 Tags: woocommerce, UPS, fulfillment, paperless invoice, bulk label
 Requires at least: 4.7
-Tested up to: 6.9.4
+Tested up to: 7.0
 Requires PHP: 7.4
 WC requires at least: 3.0
-WC tested up to: 10.6.1
-Stable tag: 1.0.7
+WC tested up to: 10.9.4
+Stable tag: 1.0.11
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
