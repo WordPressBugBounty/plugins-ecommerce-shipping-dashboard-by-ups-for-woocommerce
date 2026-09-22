@@ -72,7 +72,7 @@ class UPSESD
         if (defined('UPS_VERSION')) {
             $this->version = UPS_VERSION;
         } else {
-            $this->version = '1.0.11';
+            $this->version = '1.0.12';
         }
         $this->plugin_name = 'ecommerce-shipping-dashboard-by-ups-for-woocommerce';
 

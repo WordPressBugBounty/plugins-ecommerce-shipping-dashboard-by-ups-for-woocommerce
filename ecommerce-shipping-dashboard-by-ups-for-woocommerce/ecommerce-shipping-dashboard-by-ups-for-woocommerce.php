@@ -5,7 +5,7 @@
  * Plugin URI:        https://ups.dashboardlink.com
  * Description:       UPS eCommerce Shipping Dashboard WooCommerce integration extension
  * Tags:              woocommerce, UPS, fulfillment, paperless invoice, bulk label
- * Version:           1.0.11
+ * Version:           1.0.12
  * Author:            UPS eCommerce Shipping Dashboard
  * Author URI:        https://www.ups.com
  * Domain Path:       /languages
@@ -33,7 +33,7 @@ if (! defined('WPINC')) {
  * Start at version 1.0.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define('UPS_VERSION', '1.0.11');
+define('UPS_VERSION', '1.0.12');
 
 /*
 * Define global vraibles
